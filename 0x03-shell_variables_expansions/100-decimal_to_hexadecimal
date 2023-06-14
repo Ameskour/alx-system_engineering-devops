@@ -1,0 +1,4 @@
+#!/bin/bash
+hexadecimal=$(printf "%X" $DECIMAL)
+echo $hexadecimal
+
