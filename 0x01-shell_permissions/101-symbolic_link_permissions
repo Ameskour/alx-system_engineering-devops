@@ -1,2 +1,2 @@
 #!/bin/bash
-file_path="./_hello"; owner="vincent"; group="staff"; chown -h "$owner:$group" "$file_path"
+chown betty:staff hello
